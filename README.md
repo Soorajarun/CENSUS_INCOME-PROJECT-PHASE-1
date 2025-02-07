@@ -1,5 +1,7 @@
 PROJECT_ML_CENSUS_INCOME
-PHASE1 Census_Income This analysis focuses on the Census Income Dataset, where the income variable is the target. The goal is to predict whether an individual’s annual income exceeds $50,000 based on demographic and employment attributes.
+PHASE1,2 & 3 Census_Income 
+
+This analysis focuses on the Census Income Dataset, where the income variable is the target. The goal is to predict whether an individual’s annual income exceeds $50,000 based on demographic and employment attributes.
 
 Dataset Overview Target Variable: Income Data Size: 32,561 rows and 15 columns. Missing Values: Missing values are represented by ? in the dataset.
 
